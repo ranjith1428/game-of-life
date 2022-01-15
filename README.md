@@ -1,6 +1,6 @@
 Game of Life (in Java)
 =========
-
+rr
 [![Build Status](https://travis-ci.org/Inoryy/game-of-life-java.svg?branch=master)](https://travis-ci.org/Inoryy/game-of-life-java)
 
 `Game of Life (in Java)` is an [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) implementation in Java with GUI written in JavaFX and optional console output.
